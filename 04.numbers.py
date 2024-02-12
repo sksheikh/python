@@ -1,5 +1,6 @@
 #python number
 
+import random
 # 3 numeric type
 #int - positive, negative without decimal point
 # x = 1
@@ -18,10 +19,14 @@
 # print(type(x))
 
 #convert
-x = 1 #int
-a = float(x) #float
-b = complex(x) #float
+# x = 1 #int
+# a = float(x) #float
+# b = complex(x) #float
 
-print(type(x))
-print(type(a))
-print(type(b))
+# print(type(x))
+# print(type(a))
+# print(type(b))
+
+#random number
+x = random.randrange(1,10)
+print(x)
