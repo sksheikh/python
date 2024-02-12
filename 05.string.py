@@ -28,5 +28,14 @@
 #   print("Yes, 'free is present here")
 
 #slicing string
-x = "sheikh"
-print(x[-4:-1])
+# x = "sheikh"
+# print(x[-4:-1])
+
+# Modify Strings
+# x = ' Sheikh Salah Uddin '
+# print(x.upper()) #uppercase
+# print(x.lower()) #uppercase
+# print(x.strip()) #remove whitespace beggining and end
+# print(x.replace('S','l')) #replace a string
+x = 'Hello, world'
+print(x.split(",")) #split
