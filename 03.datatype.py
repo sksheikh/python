@@ -41,9 +41,16 @@
 # print(type(x))
 
 # binary type: bytes, bytearray, memoryview
+# x = b"Hello" # bytes
+# x = bytearray(5) #bytearray
+# x = memoryview(bytes(5)) #memoryview
+# print(x)
+# print(type(x))
 
 # none type: NoneType
-
+x = None
+print(x)
+print(type(x))
 
 # print data type
 # x = 10
