@@ -37,5 +37,13 @@
 # print(x.lower()) #uppercase
 # print(x.strip()) #remove whitespace beggining and end
 # print(x.replace('S','l')) #replace a string
-x = 'Hello, world'
-print(x.split(",")) #split
+# x = 'Hello, world'
+# print(x.split(",")) #split
+
+
+# format string
+age = 28
+appleQty = 4
+bananaQty = 20
+txt = 'I\'am {1} years old, i have {0} apple & {2} bananas '
+print(txt.format(appleQty, age, bananaQty))
