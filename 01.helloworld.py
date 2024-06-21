@@ -1,3 +1,4 @@
+#print hello world
 print('hello world!')
 
 # indentation
@@ -6,5 +7,4 @@ print('hello world!')
 #   print("Five is greater than two")
 
 # variable
-# x = 5
-# print(x)
+#  
