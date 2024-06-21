@@ -1,3 +1,7 @@
+"""
+this is multiline comments
+Athor: sheikh
+"""
 #print hello world
 print('hello world!')
 
@@ -7,4 +11,7 @@ print('hello world!')
 #   print("Five is greater than two")
 
 # variable
-#  
+# x = 5
+# print(x)
+
+print("Hey this is \"first line\" \nand this is another line ");
