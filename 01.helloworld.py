@@ -1,4 +1,9 @@
-print('hello world!')
+"""
+this is multiline comments
+Athor: sheikh
+"""
+#print hello world
+# print('hello world!')
 
 # indentation
 # if 5 > 2:
@@ -8,3 +13,7 @@ print('hello world!')
 # variable
 # x = 5
 # print(x)
+
+# print("Hey this is \"first line\" \nand this is another line ");
+
+print("hello",240, sep="-", end="99\n")
